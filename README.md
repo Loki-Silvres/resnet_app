@@ -10,12 +10,13 @@ This Android application demonstrates image classification using a pre-trained R
 
 ## Screenshots
 
-**(You can add 2-3 screenshots here showcasing the app in action)**
 
 1.  **Main Screen / Image Picker:**
+   
     ![image](https://github.com/user-attachments/assets/5dc87dba-7fce-4b88-8d44-3c338f73f204)
 
 2.  **Image Displayed and Classification Result:**
+   
     ![image](https://github.com/user-attachments/assets/60572d02-3141-43fd-94a3-fe756a8eba4a)
 
 
